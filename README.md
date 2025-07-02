@@ -39,10 +39,10 @@ Reusable scripts for pulling and analyzing financial data from SAP systems
 ---
 
 ### 🔗 Let’s Connect!
-- [LinkedIn](www.linkedin.com/in/salem-okullo-25a88024b)  
-- [Medium](https://medium.com/@salemaliokullo)  
-- [Email](salemokullo@gmail.com)  
-- [Portfolio or Website](https://alihomeagent.com) *(if you have one)*
+- Linkedin www.linkedin.com/in/salem-okullo-25a88024b 
+- Medium https://medium.com/@salemaliokullo 
+- Email salemokullo@gmail.com  
+- Portfolio or Website https://alihomeagent.com
 
 ---
 
